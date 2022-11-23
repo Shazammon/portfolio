@@ -10,7 +10,13 @@ export default function About() {
                 About Me
             </h1>
 
-            <p className={styles.extraGreen}>Hi I am Ammon and I make super cool software!</p>
+            <p className={styles.extraGreen}>
+                My name is Ammon Orgill and I'm a newly minted software engineer!
+        I love to build intuitive websties that people love to use. I have a passion for creating and building. 
+        I have years of corporate experience in Business Strategy & Operations which allowed me to develop in depth business acumen and a sharp eye for executing strategic initiaitves. I bring those skills to the table to ensure that products I create meet key business objectives. 
+
+        I am a passionate real estate investor, concert pianist, and competitive pickleball player. 
+      </p>
 
             {/* load an image locally */}
             <Image 
