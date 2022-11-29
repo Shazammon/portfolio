@@ -20,8 +20,8 @@ export default function About() {
 
             {/* load an image locally */}
             <Image 
-                src='/hercules.jpeg'
-                alt='logo'
+                src='/Ammon1.jpeg'
+                alt='Profile Photo'
                 width={400}
                 height={300}
                 // layout='fill'
