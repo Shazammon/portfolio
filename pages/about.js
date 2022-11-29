@@ -7,7 +7,7 @@ export default function About() {
     return (
         <div>
             <h1>
-                About Me
+                Ammon Orgill
             </h1>
 
             <p className={styles.extraGreen}>
